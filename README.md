@@ -20,9 +20,11 @@ O desafio era:
 
 ## EDA
 
-### Acesse o resumo completo do trabalho e da EDA - Aqui
+### Acesse o Resumo completo do trabalho e da EDA - [AQUI](https://ian-stoltz.notion.site/Desafio-Cientista-de-Dados-18abf21697fa80628056ed85320414f7?pvs=4)
 
-### Acesse a EDA completa - Aqui
+### Se preferir ler o resumo completo em PDF - [AQUI](https://github.com/IanStoltz/LH_CD_Ian_Rodrigo_Stoltz/blob/main/notebooks/Desafio%20Indicium.pdf)
+
+### Acesse a EDA completa - [AQUI](https://github.com/IanStoltz/LH_CD_Ian_Rodrigo_Stoltz/blob/main/notebooks/EDA.ipynb)
 
 ---
 - Este é um problema de regressão.
@@ -71,8 +73,10 @@ pip install -r requirements.txt
 
 - Você pode executar um dos arquivos a seguir após instalar os requisitos
 
-model_test.ipynb
-model_test.py
+    [model_test.ipynb](https://github.com/IanStoltz/LH_CD_Ian_Rodrigo_Stoltz/blob/main/arquivos%20de%20teste/model_test.ipynb)
+
+
+    [model_test.py](https://github.com/IanStoltz/LH_CD_Ian_Rodrigo_Stoltz/blob/main/arquivos%20de%20teste/model_test.py)
 
 - Se preferir, copie o código abaixo:
 
