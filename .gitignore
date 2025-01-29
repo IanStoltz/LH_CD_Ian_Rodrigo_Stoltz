@@ -1,0 +1,49 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+*.db
+*.sqlite
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Editors.
+##########
+/vscode
+/.vscode
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Dados
+data/  
+.csv 
+
+# Ambiente virtual
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Arquivos de configuração do sistema
+.DS_Store  # MacOS
+Thumbs.db  # Windows
+
+# Arquivos de logs
+*.log
+
+# Arquivos de dependências
+Pipfile.lock  # Se você usar o Pipenv, pode não querer versionar o arquivo de lock
+*.egg-info/
+*.dist-info/
+
+# Outras pastas temporárias
+*.bak
+*.swp
+*.swo
+*.tmp
