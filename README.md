@@ -1,6 +1,6 @@
 # Introdução
 
-<img src="imagens/Capa Indicium.png" alt="Capa com a logo da Indicium" width="480"/>
+<img src="imagens/Capa Indicium Final.png" alt="Capa com a logo da Indicium" width="480"/>
 
 ---
 
