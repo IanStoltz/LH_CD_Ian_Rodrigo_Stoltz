@@ -129,3 +129,31 @@ teste = transform_to_X_test({'id': 2595,
 prediction = model.predict(teste)
 print(prediction)
 ```
+
+## <h2 align="left"> ⚙️ Linguagens e ferramentas </h3>
+
+
+<p align="left">
+ <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> &nbsp;
+ <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+ <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/> &nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> </a> &nbsp;
+ <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> </a> &nbsp;
+ <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/archive/0/01/20150219130407%21Created_with_Matplotlib-logo.svg" alt="Matplotlib" width="40" height="40"/> </a> &nbsp;
+   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/> </a> &nbsp;
+     <a href="https://scipy.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/1200px-SCIPY_2.svg.png" alt="SciPy" width="40" height="40"/> </a> &nbsp;
+   <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
+  <img src="https://ianstoltz.github.io/Portfolio/images/skl.png" alt="Scikit-learn" width="40" height="40"/> </a> &nbsp;
+    <a href="https://xgboost.readthedocs.io/en/stable/#" target="_blank" rel="noreferrer">
+  <img src="https://cdn.prod.website-files.com/65264f6bf54e751c3a776db1/66d8691e2943609aef09f8ee_xgboost.png" alt="XGBoost" width="40" height="40"/> </a> &nbsp;
+    <a href="https://lightgbm.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
+  <img src="https://seeklogo.com/images/L/lightgbm-logo-177B8D9AAD-seeklogo.com.png" alt="LightGBM" width="40" height="40"/> </a> &nbsp;
+ <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VisualStudioCode" width="35" height="35" /> &nbsp;
+ <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
