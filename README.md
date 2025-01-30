@@ -153,7 +153,7 @@ print(prediction)
     <a href="https://xgboost.readthedocs.io/en/stable/#" target="_blank" rel="noreferrer">
   <img src="https://cdn.prod.website-files.com/65264f6bf54e751c3a776db1/66d8691e2943609aef09f8ee_xgboost.png" alt="XGBoost" width="40" height="40"/> </a> &nbsp;
     <a href="https://lightgbm.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
-  <img src="https://seeklogo.com/images/L/lightgbm-logo-177B8D9AAD-seeklogo.com.png" alt="LightGBM" width="40" height="40"/> </a> &nbsp;
+  <img src="https://lightgbm.readthedocs.io/en/latest/_static/LightGBM_logo_grey_text.svg" alt="LightGBM" width="45" height="40"/> </a> &nbsp;
  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VisualStudioCode" width="35" height="35" /> &nbsp;
  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
