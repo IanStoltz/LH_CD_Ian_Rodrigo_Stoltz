@@ -18,10 +18,6 @@ ipython_config.py
 # Jupyter Notebooks
 .ipynb_checkpoints/
 
-# Dados
-data/  
-.csv 
-
 # Ambiente virtual
 env/
 venv/
